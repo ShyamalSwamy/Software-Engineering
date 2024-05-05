@@ -1,0 +1,8 @@
+To run this the website itself you will be required to follow a set of instructions:
+1. Open the 'Software Engineering - Shyamal Swamy' folder in Visual Studio Code.
+2. Run the main.py program.
+3. An error should pop up regarding "flask".
+4. You will be required to type the following commands into the terminal; pip install flask (after waiting for flask to install proceed to the next cmd), pip install sqlalchemy.
+5. After installing these following programs, assuming you are using the correct and latest python interpretor preinstalled on your device, the program should run.
+6. If successful, there will be a pop-up in the terminal that will give you code that you will use to view and run the website on your browser.
+7. paste "http://127.0.0.1:5000/" into your browser and it will open my website.
